@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Vitalem](https://github.com/printprince/vitalem)
 
-- 🌱 I’m currently learning **Echo, RabbitMQ, ELK, Swagger, log/slog, gorm**
+- 🌱 I’m currently learning **Golang(Echo, log/slog, gorm), RabbitMQ, ELK, Swagger, Microservices**
 
 - 📫 How to reach me **kairollaadilet@gmail.com;**
 
